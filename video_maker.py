@@ -55,8 +55,7 @@ import cv2
 #
 IMAGE_FOLDER = Path(
     r"/mnt/large_storage/shared_storage/data/Yuhang/"
-    r"2026-09-22_wmmet+_test2_full/Processed/"
-    r"PNG_frames - fixed brightness"
+    r"2026-10-12_YX001_wmmet-_exp2/Processed/PNG_frames - fixed_brightness"
 )
 TITLE_EXTRA = "fixed_brightness"
 #TITLE_EXTRA = "auto_brightness"
